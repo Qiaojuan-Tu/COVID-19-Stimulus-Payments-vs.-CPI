@@ -1,0 +1,5 @@
+﻿Variables,Description,Type,Comments
+CPI,The Consumer Price Index (CPI) is measured monthly for each Region,Numerical,"Index 1982 - 1984 = 100, Seasonally Adjusted"
+Stimulus,The adjusted average relief payments for each U.S. regions within each rounds of payments,Numerical,Adjusted stimulus relief payment for each states within each rounds
+Region,The region that the state belongs,Categorical,"4 Levels: South, West, Mideast, Northeast"
+Month,The month that the data is measured ,Categorical,Month
